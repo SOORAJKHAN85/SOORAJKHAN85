@@ -50,7 +50,7 @@ I'm currently **seeking full-time roles** in:
 
 📬 **Let’s connect and collaborate!**  
 📧 Email: soorajmark85@gmail.com
-🌐 [LinkedIn](https://linkedin.com/in/soorajkhanpattan)  
+ 🌐 [LinkedIn](https://linkedin.com/in/soorajkhanpattan)  
 
 ```
 
