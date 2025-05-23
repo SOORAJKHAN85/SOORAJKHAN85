@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Sooraj Khan Pattan
 
 🎓 IS Grad @ Northwest Missouri State University  
-📍 Maryville, Missouri  
-🌐 [LinkedIn](https://linkedin.com/in/soorajkhanpattan)  
+
 
 I'm a passionate and analytical thinker with a Master's in Information Systems, skilled in Data Analytics and Business Analysis. I specialize in transforming data into insights using tools like **SQL**, **Python**, **Tableau**, and **Excel**. I enjoy creating data-driven solutions that enhance decision-making, efficiency, and strategic direction.
 
@@ -30,6 +29,15 @@ I'm a passionate and analytical thinker with a Master's in Information Systems, 
 
 ---
 
+## 📜 Certifications
+
+- Tableau Forage Virtual Experience  
+- GitHub – Geekster Certification  
+- SQL – HackerRank Certification  
+- Introduction to Cyber Security  
+
+---
+
 ## 🚀 Actively Seeking
 
 I'm currently **seeking full-time roles** in:
@@ -42,4 +50,4 @@ I'm currently **seeking full-time roles** in:
 
 📬 **Let’s connect and collaborate!**  
 📧 Email: soorajmark85@gmail.com  
-📍 Based in Missouri | Open to relocation
+🌐 [LinkedIn](https://linkedin.com/in/soorajkhanpattan)  
