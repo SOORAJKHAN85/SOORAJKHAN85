@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Sooraj Khan Pattan
 
 🎓 IS Grad @ Northwest Missouri State University  
@@ -52,5 +51,4 @@ I'm currently **seeking full-time roles** in:
 📧 Email: soorajmark85@gmail.com
  🌐 [LinkedIn](https://linkedin.com/in/soorajkhanpattan)  
 
-```
 
