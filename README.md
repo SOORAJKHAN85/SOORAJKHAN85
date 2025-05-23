@@ -1,8 +1,4 @@
-Here’s your updated `README.md` with **“Introduction to Cyber Security” removed** and **“Business Analysis Foundations – IIBA”** added under certifications:
 
----
-
-```markdown
 # 👋 Hi, I'm Sooraj Khan Pattan
 
 🎓 IS Grad @ Northwest Missouri State University  
