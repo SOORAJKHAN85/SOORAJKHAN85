@@ -30,10 +30,10 @@ I'm a passionate and analytical thinker with a Master's in Information Systems, 
 
 ## 📜 Certifications
 
-- [Tableau Forage Virtual Experience] (https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_csw7xsJucwnE3frYM_1744179962566_completion_certificate.pdf)  
-- GitHub – Geekster Certification  
-- SQL – HackerRank Certification  
-- [Business Analysis Foundations – IIBA] (https://www.linkedin.com/learning/certificates/87b6bc2d10ddae0442bdfaee6c19b2baf4bfc574e02e1cccf5734e5edce0c110?trk=share_certificate)  
+- [Tableau Forage Virtual Experience](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_csw7xsJucwnE3frYM_1744179962566_completion_certificate.pdf)  
+- [GitHub – Geekster Certification](https://certifications.geekster.in/q2Z-0M57l8ejWNw1VCXIW-geekster.pdf)  
+- [SQL – HackerRank Certification](https://www.hackerrank.com/certificates/5c2941d3b6d4)  
+- [Business Analysis Foundations – IIBA](https://www.linkedin.com/learning/certificates/87b6bc2d10ddae0442bdfaee6c19b2baf4bfc574e02e1cccf5734e5edce0c110?trk=share_certificate)  
 
 ---
 
