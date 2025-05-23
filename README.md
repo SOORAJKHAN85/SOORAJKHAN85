@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sooraj Khan Pattan
 
-🎓 IS Grad @ Northwest Missouri State University  
+🎓 IS Grad @ [Northwest Missouri State University](https://www.nwmissouri.edu/)  
 
 I'm a passionate and analytical thinker with a Master's in Information Systems, skilled in Data Analytics and Business Analysis. I specialize in transforming data into insights using tools like **SQL**, **Python**, **Tableau**, and **Excel**. I enjoy creating data-driven solutions that enhance decision-making, efficiency, and strategic direction.
 
